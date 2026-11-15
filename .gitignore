@@ -1,0 +1,39 @@
+# Maven build output
+target/
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Logs and runtime artifacts
+*.log
+hs_err_pid*
+replay_pid*
+
+# IDE and Editor configuration
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+.settings/
+.project
+.classpath
+.factorypath
+
+# OS-specific files
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.swp
+*.bak
+*~
+
+# Environment & Sensitive configs
+.env
+.env.*
+*.local
+credentials.json
+*.key
