@@ -212,6 +212,4 @@ Contributions are welcome! To contribute:
 
 ---
 
-## License
 
-This project is open source and available under the terms of the MIT License.
